@@ -1,10 +1,17 @@
-### Hi there 👋
+## Hey there, I'm Renee.
+
+I'm a native New Yorker and an early bird. I'm a New York City history buff, a map nerd, and an amateur bicyclist.
+
+I'm experienced in Javascript, Node.js, Express, React, Redux, and React-Native, but learning more all the time -- right now it's Swift.
+
+#### Got any side project ideas, job opportunities, or just want to chat?
+You can reach me at reneelberger@gmail.com or find me on https://www.linkedin.com/in/reneeberger/  
 
 <!--
 **ReneeBe/ReneeBe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<!-- 
 Here are some ideas to get you started:
-
+I'm a 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

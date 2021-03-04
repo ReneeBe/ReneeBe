@@ -2,7 +2,7 @@
 
 I'm a software engineer, a map nerd, and a newbie cyclist.
 
-I'm experienced in Javascript, Node.js, Express, React, Redux, and React-Native, but learning more all the time -- right now it's C.
+I'm experienced in Javascript, Python, Node.js, Express, React, Redux, and React-Native, but learning more all the time -- right now it's Swift.
 
 #### Got any side project ideas, job opportunities, or just want to chat?
 You can reach me at reneelberger@gmail.com or find me on https://www.linkedin.com/in/reneeberger/  

@@ -1,6 +1,6 @@
 ## Hey there, I'm Renee.
 
-I'm a software engineer, a map nerd, and a newbie cyclist.
+I'm a software engineer, a map nerd, and a cyclist.
 
 I'm experienced in Javascript, Python, Node.js, Express, React, Redux, and React-Native, but learning more all the time -- right now it's Swift.
 

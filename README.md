@@ -2,7 +2,7 @@
 
 I'm a software engineer, a map nerd, and a cyclist.
 
-I'm experienced in Javascript, Python, Node.js, Express, React, Redux, React-Native, Swift but learning more all the time. Right now I'm working on completing 50 small projects in 50 (week)days -- watch what I'm doing here: https://reneebe.github.io/50projects/
+I'm experienced in Javascript, Python, Node.js, Express, React, Redux, React-Native, Swift but learning more all the time. Right now I'm working on completing 25 small projects in 25 (week)days -- watch what I'm doing here: https://reneebe.github.io/25projects/
 
 
 #### Got any side project ideas, job opportunities, or just want to chat?
